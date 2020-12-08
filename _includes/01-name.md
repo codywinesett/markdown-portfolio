@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Hi, i'm Cody
+## This is an <h2> header
